@@ -57,6 +57,20 @@ nav{
 .nav-link:hover{
     color: #7a7878;
 }
+/* HAMBURGER-MENU*/
+.hamburger-menu .nav-link:hover{
+    color: #ffffff;
+}
+.hamburger-menu .nav-link{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 12px;  
+    text-decoration: none;
+    position: relative;
+  }
+.hamburger-menu .btn:focus{
+    box-shadow: none;
+}
 /* HOME */
 .home{
     background-image: url("img/anasayfa/anasayfafoto.jpg");
@@ -95,6 +109,9 @@ nav{
 .middle a:hover{
     background-color: black;
     transition: all 0.3s;
+}
+.middle p{
+    text-align: justify;
 }
 h2{
     color: #0099e8;
