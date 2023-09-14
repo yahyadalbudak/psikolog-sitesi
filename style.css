@@ -187,6 +187,9 @@ footer{
     height: 500px;
     border-radius: 55px;
 }
+.section-middle p{
+    text-align: justify;
+}
 /* ALANLAR&UYGULAMALAR */
 .alanlar h5{
     color: #0099e8;    
