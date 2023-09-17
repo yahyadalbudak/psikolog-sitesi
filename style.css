@@ -181,8 +181,8 @@ footer{
     font-size: 13px;
 }
 .section-middle img{
-    width: 350px;
-    height: 500px;
+    width: 100%;
+    height: auto;
     border-radius: 55px;
 }
 .section-middle p{
